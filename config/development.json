@@ -1,0 +1,5 @@
+{
+    "instance": "Local",
+    "protocol": "http",
+    "mongoDBConnection": "mongodb://localhost:27017/flights"
+  }

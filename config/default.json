@@ -1,0 +1,11 @@
+{
+    "availableVersions": [
+        "v1"
+    ],
+    "apiList": {
+        "Users": "/users/:id?"
+    },
+    "tableNames": {
+        "flights": "flights"
+    }
+}
